@@ -1,3 +1,4 @@
+- Fork the repo
 - Clone the repo.  
 - Install requirements.  
 - Make some changes to 'changes.py' file, push those changes. (To create first commit)
