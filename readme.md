@@ -1,8 +1,9 @@
-- Fork the repo
-- Clone the repo.  
-- Install requirements.  
-- Make some changes to 'changes.py' file, push those changes. (To create first commit)
-- Get the commit hash from GitHub and pass it to get_dependencies.py
+- Fork the repository.
+- Clone the repository.
+- cd GitRead.
+- Install requirements using pip install -r requirements.txt  
+- Make some changes to 'changes.py' (Hello World --> Hello Universe) file, push those changes to GitHub. (To create first commit)
+- Get the commit hash(looks like 6a01d15c77a5a4aadeee659dd9a1f33dbf702802) from GitHub and pass it to get_dependencies.py 
 - Pass the path of cloned repo to get_dependencies.py
 - Run the get_dependencies.py to get versions of dependencies
 - You can run the same code in your other project repositaries to get the versions of dependencies.
